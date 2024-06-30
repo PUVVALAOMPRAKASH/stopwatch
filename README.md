@@ -19,8 +19,7 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
    git clone https://github.com/your-username/stopwatch-project.git
 
 2.Navigate to project directory
-   ```bash
-     cd stopwatch-project
+     `cd stopwatch-project`
 
 
 
