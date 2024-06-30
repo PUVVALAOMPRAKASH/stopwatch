@@ -17,3 +17,10 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/stopwatch-project.git
+
+2.Navigate to project directory
+   ```bash
+     cd stopwatch-project
+
+
+
